@@ -1,5 +1,5 @@
 <div align= "center">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=hi%20there!%20I'm%20MINJE&animation=fadeIn&fontColor=ffffff&fontSize=60" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&text=hi%20there!%20I'm%20MINJE&animation=fadeIn&fontColor=ffffff&fontSize=60" />
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> MIN JE JEON </h2>  
@@ -27,9 +27,6 @@
           </div>  <br> 
     <div align= "center">  </div> 
     </div>
-    <div align= "center"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> <div align= "center"> <img src="https://github-readme-stats.vercel.app/api?username=MINJE-JEON&custom_title=MINJE-JEON's Github Stat&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-        /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MINJE-JEON&layout=compact&bg_color=180,000000,&title_color=ffffff&text_color=ffffff"
-          /> </div> 
+    <div align= "center">  
     </div>
     
