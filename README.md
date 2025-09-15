@@ -24,7 +24,7 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://www.instagram.com/jeon_min_je/> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jeon_min_je/"> </a>
          <a href=mailto:jeonworkspace@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jeonworkspace@gmail.com"> </a>
-        <a href=mailto:jeonworkspace@gmail.com> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/"> </a>
+        <a href=www.linkedin.com/in/seong-yun-byeon-8183a8113/> <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/"> </a>
           </div>  <br> 
         [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MINJE-JEON&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&border_color=ff0000)](https://github.com/MINJE-JEON/github-readme-activity-graph)
 
